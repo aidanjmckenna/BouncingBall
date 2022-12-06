@@ -21,6 +21,7 @@
  * 1. I removed the reference to the Apollo launch audio file and replaced it with Christmas Time Is Here from A Charlie Brown Christmas. 
  * 2. I played around with the text in the textbox by changing the text to 'Merry Christmas!', changing the color of the text so that it is always red, and changing the font. 
  * 3. I learned about p5js shapes and where things are located by adding a basic Christmas tree in the background using rectangles and triangles. I assigned colors to these shapes as well. 
+ * The program can also be found on my github page here: https://aidanjmckenna.github.io/BouncingBall/
  */
 
 const BOX_WIDTH  = 200;  // textbox dimensions
